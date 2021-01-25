@@ -17,7 +17,7 @@ Here is some differences between Positve and Negative mindsets:
   Positive mindset | Negative mindset  
   ---------------- | ----------------- 
   Motivates others | Frustrates others 
-    Creative | Destructive    
+  Creative | Destructive    
 
 
 
