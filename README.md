@@ -11,8 +11,9 @@ Here is a link to a good motivation channel in youtube [Youtube](https://www.you
 
 Here is an illustrate how a positive mindset should look like ![Positive mindset](https://pbs.twimg.com/media/EMG6jPGUYAANl2u.jpg)
 
-Hello Everybody, Let me introduce myself to you guys,
+## Introducing Myself
 
-My name is Zuhair Nawasrah, I am 25 years old, I got a bachelor degree in electrical engineering, four years ago, from Al-Balqa' Applied University. Here is my Github profile link: https://github.com/ZuhairNawasrah
+Hello Everybody, Let me introduce myself to you guys,
+My name is Zuhair Nawasrah, I am 25 years old, I got a bachelor degree in electrical engineering, four years ago, from Al-Balqa' Applied University. Here is my Github profile link:[Github](https://github.com/ZuhairNawasrah)
 
 Good luck for everyone, and see you tomorrow 'In sha'a allah'.
