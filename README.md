@@ -12,15 +12,15 @@ There are keys that remind me to stay in the state of **Growth Mindset**, which 
 2. Make some actions everyday which motivate me to keep going on the right way, like watching a specific type of videos.
 3. Give the priority always to warship, then to work, then the other things. 
 
-Here is some differences between Positve and Negative mindsets:
+Here is some of links for Markdown 
 
-  Positive mindset | Negative mindset  
-  ---------------- | ----------------- 
-  Motivates others | Frustrates others 
-  Creative | Destructive    
+|  |  |
+| ------ | ---------- | 
+|  |  |
+|  |  |
 
-Good luck for everyone, and see you tomorrow 'In sha'a allah'.
 
-Here is a link to a good motivation channel in youtube [Youtube](https://www.youtube.com)
-
-Here is an illustrate how a positive mindset should look like ![Positive mindset](https://pbs.twimg.com/media/EMG6jPGUYAANl2u.jpg)
+| Number      | Code links |
+| ----------- | ----------- |
+| 1      | [Basic of coding at markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)       |
+| 2   | [Advanced coding](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)        |
