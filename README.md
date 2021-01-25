@@ -12,13 +12,7 @@ There are keys that remind me to stay in the state of **Growth Mindset**, which 
 2. Make some actions everyday which motivate me to keep going on the right way, like watching a specific type of videos.
 3. Give the priority always to warship, then to work, then the other things. 
 
-Here is some of links for Markdown 
-
-|  |  |
-| ------ | ---------- | 
-|  |  |
-|  |  |
-
+Here is some of links for Markdown:
 
 | Number      | Code links |
 | ----------- | ----------- |
