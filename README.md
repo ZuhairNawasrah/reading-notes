@@ -14,10 +14,10 @@ There are keys that remind me to stay in the state of **Growth Mindset**, which 
 
 Here is some differences between Positve and Negative mindsets:
 
-| Positive mindset | Negative mindset  |
-| ---------------- | ----------------- |
-| Motivates others | Frustrates others |
-|     Creative     |    Destructive    |  
+  Positive mindset | Negative mindset  
+  ---------------- | ----------------- 
+  Motivates others | Frustrates others 
+      Creative     |    Destructive    
 
 
 
