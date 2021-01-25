@@ -19,11 +19,8 @@ Here is some differences between Positve and Negative mindsets:
   Motivates others | Frustrates others 
   Creative | Destructive    
 
-
-
 Good luck for everyone, and see you tomorrow 'In sha'a allah'.
 
 Here is a link to a good motivation channel in youtube [Youtube](https://www.youtube.com)
 
 Here is an illustrate how a positive mindset should look like ![Positive mindset](https://pbs.twimg.com/media/EMG6jPGUYAANl2u.jpg)
-
