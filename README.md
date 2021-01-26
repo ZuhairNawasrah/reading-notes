@@ -16,6 +16,6 @@ Here are the links of student assignments:
 
 | Number | Code links |
 | ------ | ---------- |
-| Read-2a |  |
-| Read-2b | [Advanced coding](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting) |
-|
+| Read-2a | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-2a) |
+| Read-2b | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-2b) |
+| Read-3  | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-3)  |
