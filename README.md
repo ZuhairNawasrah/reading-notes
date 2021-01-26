@@ -19,4 +19,4 @@ Here are the links of student assignments:
 | Read-2a | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-2a) |
 | Read-2b | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-2b) |
 | Read-3  | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-3)  |
-| Lab-3   | [Link](https://zuhairnawasrah.github.io/reading-notes/index)
+
