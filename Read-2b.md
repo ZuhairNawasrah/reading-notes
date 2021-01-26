@@ -3,7 +3,7 @@
 Version control system **VCS** allow you to revisit various versions of a file by recording changes, and there is three types of **VCS**:
 1. Local **VCS**, which entails one database on your hard disk.
 2. Centralized **VCS**, entails a single server which can be accessed by various clients, and this streamlined the collaboration process by eliminating the need to involve all local databases.
-3. Distributed **VCS**. In event of corruption of central database's hard disk -with the absence of backups-all work at server will be lost, to prevent this type of catastrophic loss, a **DVCS** allows clients to create mirriored repositories.
+3. Distributed **VCS**. In event of corruption of central database's hard disk -with the absence of backups-all work at server will be lost, to prevent this type of catastrophic loss, a **DVCS** allows clients to create mirrored repositories.
 
 ## Git
 
