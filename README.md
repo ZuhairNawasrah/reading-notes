@@ -16,5 +16,6 @@ Here are the links of student assignments:
 
 | Number | Code links |
 | ------ | ---------- |
-| Read-2a | [Basic of coding at markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) |
+| Read-2a |  |
 | Read-2b | [Advanced coding](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting) |
+|
