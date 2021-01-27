@@ -20,7 +20,7 @@ An expression evaluates into (results in) a single value. There are two types of
 Expressions rely on things called **Operators**; they allow programmers to create a single value from one or more values. There are five types of operators:
 1. **ASSIGNMENT** OPERATORS: assign a value to a variable, e.g:
    `color = 'beige';`
-2. **ARITHMETIC** OPERATORS Perform basic math, eg:
+2. **ARITHMETIC** OPERATORS: perform basic math, eg:
    `area = 3 * 2;`
 3. **STRING** OPERATORS: combine two strings, e.g:
    `greeting= 'Hi 1 + 'Mol ly';`
