@@ -21,4 +21,6 @@ Here are the links of student assignments:
 | Read-3  | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-3)  |
 | Read-4  | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-4)  |
 | Read-5  | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-5)  |
+| Read-6a | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-6a) |
+| Read-6b | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-6b) |
 
