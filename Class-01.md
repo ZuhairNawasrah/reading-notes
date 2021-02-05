@@ -25,4 +25,4 @@ Computers solve tasks in different ways than humans, so we need to learn to "thi
 In order to learn any new programming language, we need to get to grips with:
 1. **Vocabulary**: The words that computers understand.
 2. **Syntax**: How we put those words together to create instructions computers can follow.
-3. **Debugging**: is the process of detecting and removing of existing and potential errors "**bugs**" in a software code that can cause it to behave unexpectedly or crash.
+3. **Debugging**: Is the process of detecting and removing of existing and potential errors "**bugs**" in a software code that can cause it to behave unexpectedly or crash.
