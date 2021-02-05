@@ -1,7 +1,7 @@
 # Introducing Myself
 
 Hello Everybody, Let me introduce myself to you guys,
-My name is Zuhair Nawasrah, I am 25 years old, I got a bachelor degree in electrical engineering, four years ago, from Al-Balqa' Applied University. Here is my Github profile link: [Github](https://github.com/ZuhairNawasrah)
+My name is Zuhair Nawasrah, I am 26 years old, I got a bachelor degree in electrical engineering, four years ago, from Al-Balqa' Applied University. Here is my Github profile link: [Github](https://github.com/ZuhairNawasrah)
 
 ## Growth Mindset
 
@@ -12,7 +12,9 @@ There are keys that remind me to stay in the state of **Growth Mindset**, which 
 2. Make some actions everyday which motivate me to keep going on the right way, like watching a specific type of videos.
 3. Give the priority always to warship, then to work, then the other things. 
 
-Here are the links of student assignments:
+## Code 102 Reading Notes
+
+Here are the 102 assignments links:
 
 | Number | Code links |
 | ------ | ---------- |
@@ -24,3 +26,10 @@ Here are the links of student assignments:
 | Read-6a | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-6a) |
 | Read-6b | [Link](https://zuhairnawasrah.github.io/reading-notes/Read-6b) |
 
+## Code 201 Reading Notes
+
+Here are the 102 assignments links:
+
+| Number | Code links |
+| ------ | ---------- |
+|  |  |
