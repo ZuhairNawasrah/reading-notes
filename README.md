@@ -28,7 +28,7 @@ Here are the 102 assignments links:
 
 ## Code 201 Reading Notes
 
-Here are the 102 assignments links:
+Here are the 201 assignments links:
 
 | Number | Code links |
 | ------ | ---------- |
