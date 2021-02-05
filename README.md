@@ -32,4 +32,4 @@ Here are the 201 assignments links:
 
 | Number | Code links |
 | ------ | ---------- |
-|  |  |
+| Class-01 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-01) |
