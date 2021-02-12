@@ -37,4 +37,5 @@ Here are the 201 assignments links:
 | Class-03 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-03) |
 | Class-04 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-04) |
 | Class-05 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-05) |
+| Class-06 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-06) |
  
