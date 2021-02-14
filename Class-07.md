@@ -21,3 +21,10 @@ To update the value of properties, there are two methods, by using dot notation 
 - `delete this.propertyName ;`.........Deleting the whole property.
 
 `this` is a keyword that commonly used inside functions and objects. Where the function is declared alters what this means. It always refers to one object, usually the object in which the function operates.
+
+## HTML Tables
+
+**Table**: Represents information in a grid format. The `<table>` element is used to create a table.The contents of the table are written out row by row. There are three main tags come with tables, which are:
+1. `<tr>` tag indicates the start of each row. (The `tr` stands for *table row*.)
+2. `<td>` tag is follow `<tr>` tag (one for each cell in that row). Each cell of a table is represented using a `<td>` element. (The `td` stands for *table data*.)
+3. `<th>` tag is used just like the `<td>` element but its purpose is to *represent the heading* for either a column or a row. (The `th` stands for *table heading*.)
