@@ -13,7 +13,7 @@ To collect information from visitors to your site, There is something called **F
 
 2. **MAKING CHOICES**: It has different ways to make choice:
 - **Radio buttons**: For use when a user must select one of a number of options.
-- **Checkboxes**: When a user can select and unselect one or more options.
+- **Check boxes**: When a user can select and unselect one or more options.
 - **Drop-down boxes**: When a user must pick one of a number of options from a list.
 
 3. **Submitting Forms**: This control type also has three ways for it:
