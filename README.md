@@ -30,9 +30,9 @@ Here are the 102 assignments links:
 
 Here are the 201 assignments links:
 
-| Number | Code links |
-| ------ | ---------- |
-| Class-01 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-01) |
+| Number | Code links |                                                        | Number | Code links |  
+| ------ | ---------- |                                                        | ------ | ---------- |         
+| Class-01 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-01) | | Class-11 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-11) |
 | Class-02 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-02) |
 | Class-03 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-03) |
 | Class-04 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-04) |
