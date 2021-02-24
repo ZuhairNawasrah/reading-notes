@@ -45,5 +45,7 @@ Here are the 201 assignments links:
 | Class-11 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-11) |
 | Class-12 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-12) |
 | Class-13 | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-13) |
+| Class-14a | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-14a) |
+| Class-14b | [Link](https://zuhairnawasrah.github.io/reading-notes/Class-14b) |
 
  
